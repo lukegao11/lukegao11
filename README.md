@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+* 📚 I am Guanqun Gao, a masters student in Information Systems at University of Maryland
+
+* 🤔 Data Enthusiast looking to work in the data space
+
+* 💼 Interested in roles such as Data Analyst, Data Engineering, Data Scientist or Business Analyst
+
+* 💻 Comfortable with coding languages such as Python, SQL, R, Java
+
+* 📊 Worked with visualization tools such as Tableau, Google Analytics
+
+* 👯 Looking to collaborate on projects involving data analytics, data visualization and storytelling
+
+* 📫 Linkedin - www.linkedin.com/in/guanqun-gao
