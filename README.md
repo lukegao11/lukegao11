@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 
 
-* 📚 I am Guanqun Gao
+<!-- * 📚 I am Guanqun Gao
 
 * 💻 Entry-level .NET and Angular Full Stack Developer with a master's degree in Information Systems and a bachelor's degree in Data Science
 
@@ -45,5 +45,5 @@ Here are some ideas to get you started:
 
 * 🚀 Proficient in Angular framework, adept at building responsive and dynamic web applications
 
-* 🤝 Enthusiastic about collaborating on projects that involve full-stack development and problem-solving
+* 🤝 Enthusiastic about collaborating on projects that involve full-stack development and problem-solving -->
 
